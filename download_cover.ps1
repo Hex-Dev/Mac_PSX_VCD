@@ -11,5 +11,3 @@ curl -L -o $name $cover
 sleep 3
     # break
 }
-
-https://github.com/xlenore/psx-covers/blob/main/covers/default/SLPS-00307.jpg
